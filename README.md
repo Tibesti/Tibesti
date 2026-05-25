@@ -52,11 +52,17 @@ I create maintainable web apps with a strong emphasis on UX, performance, and de
 
 #### GitHub Stats 📈
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tibesti&show_icons=true&theme=dark)
+![GitHub stats](./profile/stats.svg)
 
 #### GitHub Streak 📊
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tibesti&theme=dark&hide_border=true)
+
+#### Connect with me 📬
+
+- Email: [tobilobaolugbemi@gmail.com](mailto:tobilobaolugbemi@gmail.com)
+- LinkedIn: [tobiloba-olugbemi](https://www.linkedin.com/in/tobiloba-olugbemi-72a232187/)
+- Twitter: [@tobi_tibesti](https://x.com/tobi_tibesti)
 
 ---
 
