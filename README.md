@@ -54,9 +54,17 @@ I create maintainable web apps with a strong emphasis on UX, performance, and de
 
 ![GitHub stats](./profile/stats.svg)
 
+#### GitHub Contribution Stats 📊
+
+![GitHub contribution stats](https://github-readme-stats.vercel.app/api?username=tobiloba&show_icons=true&include_all_commits=true)
+
+#### GitHub Trophies 🏆
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tobiloba)
+
 #### GitHub Streak 📊
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tibesti&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tibesti&hide_border=true)
 
 #### Connect with me 📬
 
