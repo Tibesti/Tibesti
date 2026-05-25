@@ -64,7 +64,7 @@ I create maintainable web apps with a strong emphasis on UX, performance, and de
 
 #### GitHub Streak 📊
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tibesti&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tibesti)
 
 #### Connect with me 📬
 
